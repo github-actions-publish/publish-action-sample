@@ -8,6 +8,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - id: foo
-        uses: github-actions-publish/publish-action@main
+        uses: github-actions-publish/publish-action@v1
         with:
           tag: v1
