@@ -20,5 +20,4 @@ jobs:
         uses: github-actions-publish/publish-action@v1
         with:
           tag: v1
-          branch: release/v1
 
